@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm BoduBhai! 👋
 
-<!--
-**BoduBhai/BoduBhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at Brac University**  
+💻 **MERN Stack Developer**  
+🌱 Passionate about building full-stack web applications  
+🚀 Always exploring new technologies and ideas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Passionate computer science student at Brac University with a love for building full-stack web applications. Skilled in the MERN stack and always eager to learn and explore new technologies. Driven by curiosity, I enjoy tackling challenging projects and collaborating with others to create impactful solutions.
+
+---
+
+## 🏆 Featured Project
+
+### [PC-Builders](https://github.com/BoduBhai/PC-Builders)
+A powerful platform that helps users assemble their perfect PC builds with ease.
+
+- 🔗 [Live Demo](https://pc-builder-mcb9.onrender.com)
+- 🛠️ Built using the MERN stack
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** JavaScript (ES6+)
+- **Frontend:** React, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Others:** REST APIs, Git, GitHub
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out for collaboration, project ideas, or just a friendly chat!
+
+---
+
+*Thanks for visiting my profile! 🚀*
