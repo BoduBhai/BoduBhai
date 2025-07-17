@@ -18,7 +18,7 @@ Passionate computer science student at Brac University with a love for building 
 ### [PC-Builders](https://github.com/BoduBhai/PC-Builders)
 A powerful platform that helps users assemble their perfect PC builds with ease.
 
-- 🔗 [Live Demo](https://pc-builder-mcb9.onrender.com)
+- 🔗 [Live Demo](https://pc-builders.onrender.com/)
 - 🛠️ Built using the MERN stack
 
 ---
