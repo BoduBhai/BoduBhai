@@ -1,4 +1,4 @@
-# Hi, I'm BoduBhai! 👋
+# Hi, I'm Bodruddoza Araf! 👋
 
 🎓 **Student at Brac University**  
 💻 **MERN Stack Developer**  
